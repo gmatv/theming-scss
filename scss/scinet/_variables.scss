@@ -1,0 +1,4 @@
+@use '../common/variables' as * with (
+  $primary: grey,
+  $secondary: white
+);
